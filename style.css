@@ -1,8 +1,10 @@
+h1 {
+    color: rgb(31, 29, 29);
+
+}
+
 body {
-    color: rgb(29, 26, 26);
-
+    background-image: url("House-Chicago.png");
 }
 
-h2 {
-    color: rgb(21, 204, 204)
-}
+
