@@ -1,0 +1,13 @@
+h1 {
+    color: rgb(223, 223, 233);
+
+}
+h2{
+    color: rgb(241, 216, 216);
+}
+
+body {
+    background-image: url("sapato.jpg");
+}
+
+/* para linkar uma pagina crie um novo arquivo */
