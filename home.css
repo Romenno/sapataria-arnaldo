@@ -7,8 +7,36 @@ body {
     background-image: url("sapatogng.jpg");
 }
 
+
+
+
+
 address {
 
 color: aquamarine;
 }
 
+
+
+
+
+
+
+li {
+    color: rgb(19, 155, 71);
+
+}
+
+ul{
+    background-image: url("index.html");
+}
+
+
+
+
+.div-menu{
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
