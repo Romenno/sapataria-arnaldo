@@ -1,0 +1,75 @@
+h1 {
+    color: rgb(223, 223, 233);
+
+}
+
+h2{
+ 
+   color: rgb(241, 216, 216);
+
+}
+
+
+
+.titulo-pagina{
+    /* index.html */
+    color: blue;
+   font-size:60px;
+}
+
+p{
+    font-size:60px;
+}
+
+
+h1 {
+    color: rgb(19, 155, 71);
+
+}
+
+body{ 
+    /* foto de fundo */
+    background-image: url('../imagem/sapatogng.jpg');
+
+}
+ 
+#bodyt1{
+    /* fofot de fundo */
+    background-image: url('../imagem/House-Chicago.png');
+}
+
+
+address {
+
+color: aquamarine;
+}
+
+
+
+
+
+
+
+li {
+    color: rgb(83, 19, 155);
+
+}
+
+
+
+
+
+.div-menu{
+    /* cor da barra de menus */
+    background-color: rgb(127, 255, 176);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+
+
+
+
+/* para linkar uma pagina crie um novo arquivo */
